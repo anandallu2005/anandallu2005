@@ -104,16 +104,13 @@ const anand = {
 <div align="center">
 
 <!--START_SECTION:activity-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anandallu2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff" width="100%"/>
+<img src="https://ghchart.rshah.org/00C2FF/anandallu2005" width="100%" alt="Anand's GitHub contribution chart"/>
 <!--END_SECTION:activity-->
-<sub>⚙️ This graph depends on a third-party service and may occasionally be unavailable — if it's not showing, check back later or view live activity directly on <a href="https://github.com/anandallu2005">GitHub</a>.</sub>
 
 <br/><br/>
 
-<!-- Contribution Snake — auto-generates via GitHub Action, see setup note below -->
-<img src="https://raw.githubusercontent.com/anandallu2005/anandallu2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation placeholder"/>
-
-<sub>⚙️ Snake animation requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action enabled on this profile repo.</sub>
+<!-- Contribution Snake — auto-generated daily via GitHub Action -->
+<img src="https://raw.githubusercontent.com/anandallu2005/anandallu2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
 </div>
 
@@ -199,11 +196,6 @@ Personal portfolio showcasing projects, skills, and resume with a modern respons
 <img src="https://img.shields.io/badge/Open_Source_Ready-2C5364?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Fast_Learner-00C2FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Problem_Solver-6E40C9?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anandallu2005&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%"/>
-<sub>⚙️ Trophy row above depends on a third-party service and may occasionally be unavailable — the badges above it always render.</sub>
 
 </div>
 
