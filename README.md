@@ -194,7 +194,15 @@ Personal portfolio showcasing projects, skills, and resume with a modern respons
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/Consistent_Contributor-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/Open_Source_Ready-2C5364?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Fast_Learner-00C2FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem_Solver-6E40C9?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+<br/><br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=anandallu2005&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" width="100%"/>
+<sub>⚙️ Trophy row above depends on a third-party service and may occasionally be unavailable — the badges above it always render.</sub>
 
 </div>
 
