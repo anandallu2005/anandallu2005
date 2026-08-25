@@ -106,6 +106,7 @@ const anand = {
 <!--START_SECTION:activity-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandallu2005&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C2FF&line=00C2FF&point=ffffff" width="100%"/>
 <!--END_SECTION:activity-->
+<sub>⚙️ This graph depends on a third-party service and may occasionally be unavailable — if it's not showing, check back later or view live activity directly on <a href="https://github.com/anandallu2005">GitHub</a>.</sub>
 
 <br/><br/>
 
