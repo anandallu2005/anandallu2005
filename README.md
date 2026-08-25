@@ -91,7 +91,7 @@ const anand = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anandallu2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anandallu2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=anandallu2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandallu2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9" width="45%" />
 
