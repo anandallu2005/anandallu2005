@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Anand%20Venkata%20Surya%20Kumar%20Allu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20India&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anand%20Venkata%20Surya%20Kumar%20Allu&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=16" width="100%" alt="header banner"/>
 
 <br/>
 
@@ -20,45 +19,20 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Turning+Ideas+Into+Scalable+Web+Apps;Always+Learning+%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Final-Year+IT+Undergraduate;MERN+Stack+Developer;283%2B+LeetCode+Problems+Solved;Building+Production-Style+Web+Apps" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
-```javascript
-const anand = {
-    role: "Full Stack Web Developer",
-    location: "India 🇮🇳",
-    experience: "Fresher — hungry to learn & build",
-    stack: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
-    currentFocus: ["System Design", "AI", "DevOps", "AWS"],
-    motto: "Consistency beats intensity."
-};
-```
-
-- 🚀 Passionate about building **scalable, real-world web applications**
-- 🌱 Currently sharpening skills in **System Design, AI & Cloud/DevOps**
-- 🤝 Open to **Full Stack / Frontend Developer** opportunities
-- 💬 Ask me about **React, Node.js, MongoDB & REST APIs**
-- ⚡ Fun fact: I enjoy turning messy ideas into clean, working products
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=anandallu2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9" width="100%"/>
-
-</td>
-</tr>
-</table>
+- 🎓 Final-year B.Tech Information Technology student, Vishnu Institute of Technology (CGPA: 8.86/10)
+- 💻 Strong fundamentals in DSA, OOP, and DBMS — 283+ LeetCode problems solved, 5-star HackerRank Python rating
+- 🛠️ Built and deployed 3 end-to-end full-stack applications, including a production-style e-commerce platform with live Razorpay integration
+- 🚀 Completed a MERN Full Stack virtual internship with EduSkills (AICTE-affiliated)
+- 🤝 Open to Software Engineer / Full Stack Developer roles
+- 💬 Ask me about React.js, Node.js, Express.js, MongoDB, or REST API design
 
 <br/>
 
@@ -66,21 +40,21 @@ const anand = {
 
 <div align="center">
 
-**Languages & Markup**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,java,js,ts&theme=dark" />
 
-**Frameworks & Styling**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,materialui&theme=dark" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql&theme=dark" />
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark" />
 
 </div>
 
@@ -90,27 +64,8 @@ const anand = {
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=anandallu2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=anandallu2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&icon_color=00C2FF&text_color=c9d1d9" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=anandallu2005&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C2FF&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" width="49%" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anandallu2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C2FF&text_color=c9d1d9" width="45%" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<img src="https://ghchart.rshah.org/00C2FF/anandallu2005" width="100%" alt="Anand's GitHub contribution chart"/>
-<!--END_SECTION:activity-->
-
-<br/><br/>
-
-<!-- Contribution Snake — auto-generated daily via GitHub Action -->
-<img src="https://raw.githubusercontent.com/anandallu2005/anandallu2005/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
 
 </div>
 
@@ -122,80 +77,67 @@ const anand = {
 <tr>
 <td width="33%" valign="top">
 
-### 🛒 Project One
-**E-Commerce Web App**
+### 🛒 MERN E-Commerce Platform
+**with Razorpay Integration**
 
-Full-featured online store with cart, auth, and payment integration built on the MERN stack.
+Full-stack e-commerce platform — custom MongoDB schema, REST APIs for catalog/orders/inventory, Razorpay payment gateway with server-side signature verification, JWT auth with role-based access control, and a React/Material UI admin analytics dashboard. Deployed on Render (backend) + Vercel (frontend).
+
+`React` `Node.js` `Express` `MongoDB` `Razorpay` `JWT`
+
+<p>
+<a href="REPLACE_WITH_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" /></a>
+<a href="REPLACE_WITH_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-Demo-00C2FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
+
+</td>
+<td width="33%" valign="top">
+
+### 🔗 URL Shortener
+
+Full-stack URL-shortening app converting long URLs into unique, shareable short links. Responsive React frontend with reusable components and client-side routing; optimized MongoDB queries and indexing on short-code lookups to cut redirection latency.
 
 `React` `Node.js` `Express` `MongoDB`
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00C2FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="REPLACE_WITH_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" /></a>
+<a href="REPLACE_WITH_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-Demo-00C2FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
 <td width="33%" valign="top">
 
-### 📋 Project Two
-**Task Management App**
+### 📊 Student Performance Analytics Dashboard
 
-Kanban-style productivity tool with drag-and-drop, real-time updates, and JWT auth.
+Random Forest model (Scikit-learn, Pandas) predicting student academic performance, deployed as an interactive Streamlit web app for real-time pass/fail predictions.
 
-`Next.js` `TypeScript` `MongoDB`
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-00C2FF?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-### 🌐 Project Three
-**Portfolio Website**
-
-Personal portfolio showcasing projects, skills, and resume with a modern responsive UI.
-
-`React` `Tailwind CSS`
+`Python` `Scikit-learn` `Pandas` `Streamlit`
 
 <p>
-<a href="https://github.com/anandallu2005"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" /></a>
-<a href="https://vocal-eclair-cb7f1e.netlify.app/"><img src="https://img.shields.io/badge/Live-Demo-00C2FF?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="REPLACE_WITH_GITHUB_LINK"><img src="https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github" /></a>
+<a href="REPLACE_WITH_LIVE_DEMO_LINK"><img src="https://img.shields.io/badge/Live-Demo-00C2FF?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<sub>📌 Replace <code>#</code> links above with your actual repository & live demo URLs.</sub>
-</div>
+<br/>
+
+## 🎓 Certifications
+
+- **MongoDB Basics** — MongoDB University
+- **Responsive Web Design** — freeCodeCamp
+- **Artificial Intelligence: Concepts and Techniques (2025)** — NPTEL, IISc Bangalore
 
 <br/>
 
-## 🌱 Currently Learning
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial_Intelligence-black?style=for-the-badge&logo=OpenAI&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge&logo=Diagrams.net&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/DevOps-black?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
-
-</div>
-
-<br/>
-
-## 🏆 Achievement Badges
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Consistent_Contributor-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-<img src="https://img.shields.io/badge/Open_Source_Ready-2C5364?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Fast_Learner-00C2FF?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Problem_Solver-6E40C9?style=for-the-badge&logo=codeforces&logoColor=white" />
+<!--START_SECTION:activity-->
+<img src="https://ghchart.rshah.org/00C2FF/anandallu2005" width="100%" alt="Anand's GitHub contribution chart"/>
+<!--END_SECTION:activity-->
 
 </div>
 
@@ -212,12 +154,8 @@ Personal portfolio showcasing projects, skills, and resume with a modern respons
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-<sub>⭐ Thanks for stopping by — feel free to star my repos and connect!</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
